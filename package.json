@@ -1,0 +1,17 @@
+{
+    "name": "epic-part-3",
+    "version": "0.0.1",
+    "author": "Glan Thomas <glanthomas@mac.com>",
+    "private": true,
+    "devDependencies": {
+        "browserify": "^6.3.2",
+        "chai": "^1.10.0",
+        "gulp": "^3.8.10",
+        "gulp-browserify": "^0.5.0",
+        "gulp-istanbul": "^0.3.1",
+        "gulp-jshint": "^1.9.0",
+        "gulp-mocha": "^2.0.0",
+        "gulp-sourcemaps": "^1.2.8",
+        "jshint-stylish": "^1.0.0"
+    }
+}
